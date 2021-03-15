@@ -8,5 +8,9 @@ public class Contact {
 	{
 		System.out.println("Create contact");
 	}
-
+	public void Createcontact(String msg,int no)
+	{
+		System.out.println("Create contact");
+	}
+  
 }
