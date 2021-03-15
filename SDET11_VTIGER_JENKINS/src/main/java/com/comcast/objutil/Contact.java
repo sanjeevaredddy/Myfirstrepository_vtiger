@@ -8,5 +8,10 @@ public class Contact {
 	{
 		System.out.println("Create contact");
 	}
+	
+	public void Createcontact(String msg)
+	{
+		System.out.println("Create contact");
+	}
 
 }
